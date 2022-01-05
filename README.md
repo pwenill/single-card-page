@@ -1,5 +1,3 @@
-# Foobar
-
 Une card centré au milieu de la page. Qui intègre une image centré en tète de page.
 Responsive en utilisant le framework boostrap
 
